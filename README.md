@@ -5,5 +5,6 @@
 |    |   |   |   https://cssgridgarden.com/ |
 |    |   |   |   https://medium.com/@gfaganli/understanding-npm-semantic-versioning-and-package-lock-json-bc0563c66e39 |
 |    |   |   |   https://chatgpt.com/share/67b95251-95bc-800e-a47c-9db840fa2779 |
+|    |   |   |   https://youtu.be/uQsyobT2Rv8?si=wbZDFSDf4LN8wmOA |
 
 
